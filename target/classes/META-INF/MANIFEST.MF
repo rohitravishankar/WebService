@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: WebService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DAM3
+Implementation-Vendor-Id: com.personal
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+
